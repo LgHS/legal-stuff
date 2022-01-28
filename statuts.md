@@ -5,14 +5,14 @@ L'association est dénommée Liège Hackerspace ou LGHS en abrégé.
 Tous les actes, factures, annonces, publications et autres documents émanant de l'association mentionnent la dénomination de l'association, précédée ou suivie des mots « association sans but lucratif » ou du sigle « ASBL », ainsi que de l’adresse du siège de l’association.
 
 ## Article 2. Siège social
-Le siège social est établi quai de La Dérivation 54, à 4020 Liège (région Wallonne). Il peut être modifié par simple décision de l’Assemblée Générale.
+Le siège social est établi quai de La Dérivation 54, à 4020 Liège (région wallonne). Il peut être modifié par simple décision de l’Assemblée Générale.
 
 L'adresse de ce siège ne peut être modifiée que par une décision de l’Assemblée générale conformément à la procédure légalement prévue en cas de modification statutaire. La publication de cette modification emporte dépôt des statuts modifiés coordonnés au greffe du Tribunal de l’Entreprise territorialement compétent
 
 ## Article 3. But
-Liège Hackerspace est un hackerspace implanté dans la région Liégeoise qui a pour but d'aider au développement, à la sauvegarde et à la propagation des idées, des connaissances et des techniques. Ces objectifs seront remplis par tous moyens jugés utiles, et notamment par le biais de publication de brochure, de livre ou de site internet, d'organisation ou de participation à des évènements, colloques, conférences, ateliers,réunions,
+Liège Hackerspace est un hackerspace implanté dans la région Liégeoise qui a pour but d'aider au développement, à la sauvegarde et à la propagation des idées, des connaissances et des techniques. Ces objectifs seront remplis par tous moyens jugés utiles, et notamment par le biais de publication de brochure, de livre ou de site internet, d'organisation ou de participation à des évènements, colloques, conférences, ateliers, réunions,
 
-En outre l'association peut mettre à disposition de ses adhérents un espace aménagé et équipé en outils – matériel et virtuel – permettant l’organisation et la tenue des évènements pré-cités ainsi que la réalisation de projets, personnels ou collectifs.
+En outre l'association peut mettre à disposition de ses adhérents un espace aménagé et équipé en outils – matériel et virtuel – permettant l’organisation et la tenue des évènements précités ainsi que la réalisation de projets, personnels ou collectifs.
 
 ## Article 4. Durée de l'association
 L'association est constituée pour une durée indéterminée. Elle peut être dissoute en tout temps.
@@ -23,8 +23,8 @@ L'association est constituée pour une durée indéterminée. Elle peut être di
 L'association est composée d'adhérents, de membres effectifs, de membres d'honneur, qui peuvent être des personnes physiques ou des personnes morales. Le nombre de membres effectifs ne peut être inférieur à 3.
 
 ## Article 6. Membres effectifs
-Sont membres effectifs:
-1) les soussignés;
+Sont membres effectifs :
+1) Les soussignés ;
 2) Tout membre adhérent qui, présenté par deux membres effectifs au moins, est admis en qualité de membre effectif par décision de l'assemblée générale réunissant les 3/4 des voix présentes ou représentées.
 
 La décision d'admission ou de refus est sans appel et ne doit pas être motivée par l'assemblée générale. Elle est portée à la connaissance du candidat par lettre ordinaire ou par courriel.
@@ -42,7 +42,7 @@ Sont membres d’honneur :
 ## Article 9. Registre des membres
 L’association doit tenir un registre de tous les membres sous la responsabilité du conseil d'administration.
 
-Toutes décisions d’admission, de démission ou d’exclusion de membres effectifs sont inscrites au registre à la diligence du conseil d’administration endéans les huit jours de la connaissance que le conseil a eu de la ou des modifications intervenues.
+Toutes décisions d’admission, de démission ou d’exclusion de membres effectifs sont inscrites au registre à la diligence du conseil d’administration endéans les huit jours de la connaissance que le conseil a eu de là ou des modifications intervenues.
 
 Tous les membres peuvent consulter, au siège social de l’association, le registre des membres, ainsi que tous les procès-verbaux et décisions de l’assemblée générale, du conseil d'administration, de même que tous les documents comptables de l’association, sur simple demande écrite et motivée adressée au conseil d’administration.
 
@@ -77,7 +77,7 @@ Sont notamment réservées, mais pas exclusivement, à sa compétence :
 4) la décharge à octroyer aux administrateurs et aux commissaires, le cas échéant ;
 5) l'approbation des budgets et des comptes ;
 6) la dissolution volontaire de l'association ;
-7) les nomination et l’exclusion de membres effectifs ;
+7) les nominations et l’exclusion de membres effectifs ;
 8) la transformation de l'association en société à finalité sociale ;
 9) toutes les hypothèses où les statuts l’exigent.
 
@@ -90,17 +90,17 @@ Tous les membres effectifs sont convoqués à l’assemblée générale une fois
 L’association peut être réunie en Assemblée générale extraordinaire à tout moment par décision du Conseil d'Administration, notamment à la demande d’un dixième au moins des membres effectifs.
 
 ## Article 15. Délibération
-L’assemblée générale délibère valablement dès que 2/3 de ses membres est présents ou représentés sauf dans le cas où le Code des Sociétés et des Associations (CSA) du 28 février 2019. exige un quorum de présences et un quorum de votes (modification statutaire, exclusion d’un membre, dissolution de l’ASBL ou transformation en société à finalité sociale). En cas de problèmes sanitaires, tout ou partie des membres peuvent être présent sous forme de téléconférence.
+L’assemblée générale délibère valablement dès que 2/3 de ses membres est présents ou représentés sauf dans le cas où le Code des Sociétés et des Associations (CSA) du 28 février 2019 exige un quorum de présences et un quorum de votes (modification statutaire, exclusion d’un membre, dissolution de l’ASBL ou transformation en société à finalité sociale). En cas de problèmes sanitaires, tout ou partie des membres peuvent être présents sous forme de téléconférence.
 
 L'assemblée ne peut délibérer valablement que sur les points inscrits à l’ordre du jour.
 
-L'assemblée générale doit être convoquée par le conseil d’administration lorsque un dixième des membres en fait la demande écrite. De même, toute proposition signée par un vingtième des membres doit être portée à l’ordre du jour de l'assemblée générale suivante.
+L'assemblée générale doit être convoquée par le conseil d’administration lorsqu'un dixième des membres en fait la demande écrite. De même, toute proposition signée par un vingtième des membres doit être portée à l’ordre du jour de l'assemblée générale suivante.
 
 ## Article 16. Représentation
-Les membres fondateurs ainsi que les membres du Conseil d’Administration ont un droit de vote égal à l'assemblée générale. Les autres membres n'ont pas de droit de vote.Tout membre effectif peut se faire représenter par un autre membre effectif à qui il donne procuration écrite. Tout membre ne peut détenir que 2 procurations. Tous les membres ne peuvent toutefois participer aux votes de l'assemblée générale que s'ils sont en règle de cotisation. Les décisions sont prises à la majorité simple des voix présentes ou représentées, sauf dans le cas où il en est décidé autrement par le CSA ou les présents statuts. En cas de partage des voix, le point est reporté à la prochaine assemblée générale.
+Les membres fondateurs ainsi que les membres du Conseil d’Administration ont un droit de vote égal à l'assemblée générale. Les autres membres n'ont pas de droit de vote. Tout membre effectif peut se faire représenter par un autre membre effectif à qui il donne procuration écrite. Tout membre ne peut détenir que 2 procurations. Tous les membres ne peuvent toutefois participer aux votes de l'assemblée générale que s'ils sont en règle de cotisation. Les décisions sont prises à la majorité simple des voix présentes ou représentées, sauf dans le cas où il en est décidé autrement par le CSA ou les présents statuts. En cas de partage des voix, le point est reporté à la prochaine assemblée générale.
 
 ## Article 17. Modifications statutaires et dissolutions
-L'assemblée générale ne peut valablement délibérer sur la dissolution de l'association ou la modification des statuts que conformément Code des Sociétés et des Associations (CSA) du 28 février 2019. Toute modification aux statuts ou décision relative à la dissolution doit être déposée, dans le mois de sa date, au greffe du tribunal de l’Entreprise pour publication aux "Annexes du Moniteur belge”. Il en est de même pour toute nomination ou cessation de fonction d’un administrateur, d’une personne habilitée à représenter l'association,d’une personne déléguée à la gestion journalière ou d’un vérificateur aux comptes.
+L'assemblée générale ne peut valablement délibérer sur la dissolution de l'association ou la modification des statuts que conformément Code des Sociétés et des Associations (CSA) du 28 février 2019. Toute modification aux statuts ou décision relative à la dissolution doit être déposée, dans le mois de sa date, au greffe du tribunal de l’Entreprise pour publication aux "Annexes du Moniteur belge”. Il en est de même pour toute nomination ou cessation de fonction d’un administrateur, d’une personne habilitée à représenter l'association, d'une personne déléguée à la gestion journalière ou d’un vérificateur aux comptes.
 
 ## Article 18. Publicité des décisions prises par l’assemblée générale
 Les convocations et procès-verbaux, dans lesquels sont consignées les décisions de l'assemblée générale, ainsi que tous les documents comptables, sont signés par un administrateur. Ils sont conservés dans un registre au siège de l'association et peuvent y être consultés par tous les membres et par des tiers s’ils en justifient la raison et que celle-ci est acceptée par le conseil d'administration. Le procès verbal de l’AG est envoyé par courriel à tous les membres effectifs.
@@ -109,7 +109,7 @@ Les convocations et procès-verbaux, dans lesquels sont consignées les décisio
 ## Article 19. Nomination et nombre minimum d’administrateurs — durée du mandat
 L’association est administrée par un conseil d’administration de 3 membres au moins, nommés et révocables par l’assemblée générale et choisis parmi les membres.
 
-La durée du mandat est de deux ans. Leur mandat expire par décès, démission ou révocation. Les administrateurs sortants sont rééligibles. En cas de vacance d’un mandat, un administrateur peut être nommé à titre provisoire par l'assemblée générale. Il achève dans ce cas le mandat de l’administrateur qu’il remplace.
+La durée du mandat est de deux ans. Leur mandat expire par décès, démission ou révocation. Les administrateurs sortants sont rééligibles. En cas de vacances d’un mandat, un administrateur peut être nommé à titre provisoire par l'assemblée générale. Il achève dans ce cas le mandat de l’administrateur qu’il remplace.
 
 ## Article 20. Démission
 Tout administrateur qui veut démissionner doit signifier sa décision par écrit au conseil d'administration.
@@ -145,7 +145,7 @@ La durée du mandat, éventuellement renouvelable, est fixée par le conseil d'a
 
 Le mandat prend fin automatiquement quand la personne chargée de la représentation générale perd sa qualité d'administrateur.
 
-Le conseil d'administration peut, à tout moment et sans qu'il doive se justifier, mettre fin au mandat conféré à la personne (aux personnes) chargée(s) de la représentation générale de l'association.
+Le conseil d'administration peut, à tout moment et sans qu'il doive se justifier, mettre fin au mandat conféré à la personne (aux personnes) chargée·s de la représentation générale de l'association.
 
 ## Article 26. Mandat et responsabilité
 
@@ -161,7 +161,7 @@ Un règlement d'ordre intérieur (R.O.I.) pourra être présenté par le conseil
 Des modifications à ce règlement pourront être apportées par une assemblée générale statuant à la majorité simple des membres effectifs présents ou représentés.
 
 ## Article 29. Exercice social
-L’exercice social commence le 1er janvier pour se terminer le 31 décembre.
+L’exercice social commence le 1ᵉʳ janvier pour se terminer le 31 décembre.
 
 ## Article 30. Comptes et budgets
 Le compte de l'exercice écoulé et le budget de l'exercice suivant seront annuellement soumis à l'approbation de l'assemblée générale ordinaire par le conseil d'administration.
@@ -173,7 +173,7 @@ L'assemblée générale peut désigner un vérificateur aux comptes, nommé pour
 ## Article 32. Dissolution de l'association
 En cas de dissolution de l'association, l'assemblée générale désignera un liquidateur, déterminera ses pouvoirs et indiquera l'affectation à donner à l'actif net de l’avoir social. Cette affectation devra obligatoirement être faite en faveur d'une ou plusieurs associations ayant un but similaire au sien.
 
-  Toute décision relative à la dissolution, aux conditions de la liquidation, à la nomination et à la cessation des fonctions du ou des liquidateur(s), à la clôture de la dissolution, ainsi qu’à l'affectation de l’actif net est déposée et publiée conformément à la loi du 27 juin 1921, modifiée et adaptée par la loi du 2 mai 2002.;
+  Toute décision relative à la dissolution, aux conditions de la liquidation, à la nomination et à la cessation des fonctions du ou des liquidateur·s, à la clôture de la dissolution, ainsi qu’à l'affectation de l’actif net est déposée et publiée conformément à la loi du 27 juin 1921, modifiée et adaptée par la loi du 2 mai 2002.
 
 ## Article 33. Compétences résiduelles
 Tout ce qui n'est pas prévu explicitement dans les présents statuts est réglé par Code des Sociétés et des Associations (CSA) du 28 février 2019
